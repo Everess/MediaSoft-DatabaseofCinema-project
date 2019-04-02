@@ -1,0 +1,176 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	text-decoration: none;
+}
+
+input {
+	border: 1px solid grey;
+	border-radius: 5px;
+	padding-top: 5px;
+	padding-left: 35px;
+	padding-right: 35px;
+	padding-bottom: 5px;
+	margin-bottom: 11px;
+	background-color: #f5f5f5;
+	text-decoration: none;
+}
+
+header {
+	height: 50px;
+	background-color: white;
+	position: relative;
+}
+
+header h1 {
+	text-align: center;
+	font-weight: bold;
+	padding-top: 15px;
+	color: black;
+}
+
+#authForms {
+	background-color: #e6e8e6;
+	height: 350px;
+	padding-top: 6%;
+	padding-bottom: 4%;
+	color: grey;
+}
+
+.authForms_wrapper {
+	height: 300px;
+	width: 700px;
+	background-color: white;
+	margin-left: 24%;
+	border-radius: 10px;
+}
+
+.authForms_form {
+	margin-top: 25px;
+	margin-left: 25px;
+}
+
+.authForms_wrapper_left {
+	float: left;
+	width: 350px;
+	height: 300px;
+	border-right: 1px solid #e6e8e6;
+}
+
+.authForms_wrapper_right {
+	float: right;
+	text-align: center;
+	margin-top: 100px;
+	margin-right: 25px;
+}
+
+.authForms_text {
+
+}
+
+.authForms_text h2 {
+	margin-top: 10px;
+	margin-left: 100px;
+	margin-bottom: 10px;
+	font-size: 13pt;
+	font-weight: bold;
+}
+
+.authForms_text p {
+	margin-right: 20px;
+	text-align: center;
+}
+
+.signin_btn {
+	background-color: #4ad964;
+	margin-left: 70px;
+}
+
+.signup_btn {
+	background-color: #4ad964;
+	margin-top: 10px;
+}
+
+#nav {
+	height: 40px;
+	background-color: #e0e0e0;
+}
+
+
+.nav_navbar_menu {
+	float: left;
+	margin-left: 425px;
+}
+
+.nav_navbar_menu li a:last-child {
+	margin: 0 0 0 25px;
+}
+
+.nav_navbar li {
+	display: inline-block;
+}
+
+.nav_navbar li a {
+	line-height: 42px;
+	font-size: 12px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: GREEN;
+}
+
+
+form {
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+footer {
+	height: 80px;
+	background-color: #e0e0e0;
+	position: relative;
+}
+
+footer h3 {
+	float: left;
+	margin-top: 2.7%;
+	margin-left: 10%;
+	text-align: center;
+	color: GREEN;
+	font-size: 13px;
+}
+
+.films_wrapper {
+	height: 270px;
+	width: 700px;
+	background-color: white;
+	margin-left: 23%;
+	border-radius: 10px;
+}
+
+.films_btn {
+	background-color: #4ad964;
+}
+
+.table {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.films_wrapper_text h1 {
+	text-align: center;
+	margin-top: 10px;
+}
+
+.films_wrapper_text h2 {
+	text-align: center;
+}
+
+header div {
+	float: right;
+	margin-top: 2px;
+	margin-right: 20px;
+}
