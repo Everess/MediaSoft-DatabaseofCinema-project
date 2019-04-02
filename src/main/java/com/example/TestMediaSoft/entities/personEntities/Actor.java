@@ -17,12 +17,12 @@ public class Actor extends Person {
     /**
      * Name of actor.
      */
-    public String name;
+    //public String name;
 
     /**
      * Surname of actor.
      */
-    public String surname;
+    //public String surname;
 
     /**
      * Works in which the actor took part (films, series).

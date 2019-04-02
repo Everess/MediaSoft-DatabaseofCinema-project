@@ -8,10 +8,10 @@ import javax.persistence.*;
 
 @Entity
 @Table(name = "flm")
-public class Film {
+public class Film extends Product {
 
     /**
-     * Film identifier
+     * Movie identifier
      */
     @Id
     @GeneratedValue(strategy= GenerationType.AUTO)

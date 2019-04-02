@@ -2,6 +2,7 @@ package com.example.TestMediaSoft.entities.productEntities;
 
 /**
  * Abstract entity of product.
+ * TODO: Add methods.
  */
 
 public abstract class Product {
